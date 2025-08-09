@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>AI Smart Product Search</title>
+</head>
+<body>
+  <h2>Smart Product Search (Groq + FastAPI)</h2>
+  <input id="query" style="width:300px" placeholder="e.g. running shoes under $100 with good reviews">
+  <button onclick="doSearch()">Search</button>
+  <pre id="output"></pre>
+
+<script>
+async function doSearch(){
+  const q = document.getElementById('query').value;
+  const res = await fetch("http://localhost:8000/search", {
+    method: "POST",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({query: q})
+  });
+  const data = await res.json();
+  document.getElementById('output').textContent = JSON.stringify(data, null, 2);
+}
+</script>
+</body>
+</html>

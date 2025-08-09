@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "SpeedRun Running Shoes",
+    "price": 89.99,
+    "category": "Shoes",
+    "description": "Lightweight running shoes for daily training.",
+    "rating": 4.5,
+    "embedding": null
+  },
+  {
+    "id": 2,
+    "name": "TrailBlaze Trail Shoes",
+    "price": 119.0,
+    "category": "Shoes",
+    "description": "Durable trail running shoes with extra grip.",
+    "rating": 4.7,
+    "embedding": null
+  },
+  {
+    "id": 3,
+    "name": "Comfy Joggers",
+    "price": 39.99,
+    "category": "Apparel",
+    "description": "Soft joggers for lounging and light exercise.",
+    "rating": 4.1,
+    "embedding": null
+  },
+  {
+    "id": 4,
+    "name": "Sprint Socks 3-pack",
+    "price": 12.5,
+    "category": "Accessories",
+    "description": "Breathable socks for runners.",
+    "rating": 4.2,
+    "embedding": null
+  },
+  {
+    "id": 5,
+    "name": "HydraBottle 750ml",
+    "price": 24.99,
+    "category": "Accessories",
+    "description": "Insulated water bottle.",
+    "rating": 4.6,
+    "embedding": null
+  },
+  {
+    "id": 6,
+    "name": "CityRunner Sneakers",
+    "price": 74.0,
+    "category": "Shoes",
+    "description": "Everyday sneakers with cushioned sole.",
+    "rating": 4.3,
+    "embedding": null
+  },
+  {
+    "id": 7,
+    "name": "Pro Fitness Watch",
+    "price": 199.0,
+    "category": "Electronics",
+    "description": "Heart rate and GPS tracking for runs.",
+    "rating": 4.8,
+    "embedding": null
+  },
+  {
+    "id": 8,
+    "name": "Core T-shirt",
+    "price": 19.99,
+    "category": "Apparel",
+    "description": "Performance tee with moisture wick.",
+    "rating": 4.0,
+    "embedding": null
+  },
+  {
+    "id": 9,
+    "name": "UltraGrip Yoga Mat",
+    "price": 35.0,
+    "category": "Accessories",
+    "description": "Non-slip yoga mat with extra cushioning.",
+    "rating": 4.4,
+    "embedding": null
+  },
+  {
+    "id": 10,
+    "name": "NightRun Headlamp",
+    "price": 29.99,
+    "category": "Electronics",
+    "description": "Rechargeable LED headlamp for night runs.",
+    "rating": 4.5,
+    "embedding": null
+  },
+  {
+    "id": 11,
+    "name": "ThermoRun Jacket",
+    "price": 89.0,
+    "category": "Apparel",
+    "description": "Lightweight thermal jacket for cold weather runs.",
+    "rating": 4.6,
+    "embedding": null
+  },
+  {
+    "id": 12,
+    "name": "PowerBoost Resistance Bands Set",
+    "price": 22.99,
+    "category": "Accessories",
+    "description": "Set of 5 resistance bands for strength training.",
+    "rating": 4.3,
+    "embedding": null
+  }
+]
